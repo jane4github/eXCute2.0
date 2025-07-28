@@ -1,4 +1,4 @@
-#eXCute2.0 Digital Player Project for hobby for Windows based Computers
+#eXCute2.0 is MS C# based NET4.0 Multimedia Player Project of my Programming Learning Steps. Recently updated. Digital Player Project for hobby for Windows based Computers
 #a port to android is planned
 #This is a Player based on Microsoft Codec axWMPLib
 #Its designed to open multiple times
